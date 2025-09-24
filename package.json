@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx mocha ./tests/test.js"
+    "test": "npx mocha ./tests/fibonacci-test.js"
   },
   "keywords": [],
   "author": "Patricia, Gift",
